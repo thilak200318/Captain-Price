@@ -33,7 +33,7 @@ You Can Deploy This Bot Anywhere 🇱🇰
 <p>
 <br>
 
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KisaraPesanjithPerera/Captain-Price) 
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thilak200318/Captain-Price/edit/main/README.md) 
 
 </p>
 </details>
